@@ -1,0 +1,1 @@
+This project contains documents pertaining to the MAGIC Github Webinar to be held July 31, 2015.
